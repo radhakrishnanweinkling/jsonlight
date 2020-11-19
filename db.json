@@ -1,0 +1,21 @@
+{
+	"panelno": [{
+			"id": "5730213sqweff",
+			"light1": "a",
+			"light2": "b",
+			"light3": "a",
+			"light4": "b",
+			"fan1": "a",
+			"fan2": "b"
+		},
+		{
+			"id": "2340213sqweff",
+			"light1": "a",
+			"light2": "b",
+			"light3": "a",
+			"light4": "b",
+			"fan1": "b",
+			"fan2": "b"
+		}
+	]
+}
